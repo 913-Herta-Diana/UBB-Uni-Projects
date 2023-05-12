@@ -1,0 +1,8 @@
+LAB2
+SortedBag Double Linked
+
+int toSet();
+//keeps only one occurrence of all elements from the SortedBag
+//return the number of removed elements
+LAB3 
+Deadline: week9
