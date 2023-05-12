@@ -9,6 +9,5 @@
    - [Data Structures and Algorithms](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/ProjectsDSA) - C++  
    - [Object-Oriented-Programming](https://github.com/913-Herta-Diana/Object-Oriented-Programming) - C/C++
    - [Operating Systems]() - C >to be added
-   - [Dynamic Systems]()   >to be added
-   - [Geometry]() >to be added
+   -
 
