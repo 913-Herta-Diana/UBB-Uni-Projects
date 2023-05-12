@@ -1,0 +1,2 @@
+The cost is 54 and the vertices are [2, 4, 5]
+
