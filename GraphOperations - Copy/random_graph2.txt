@@ -1,1 +1,0 @@
-Impossible to create 6 vertices graph with 40 edges!!!
