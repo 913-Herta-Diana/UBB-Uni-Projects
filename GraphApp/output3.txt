@@ -1,0 +1,2 @@
+The cost is 3 and the vertices are [2, 4]
+
