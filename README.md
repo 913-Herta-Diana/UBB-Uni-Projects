@@ -9,4 +9,6 @@
    - [Data Structures and Algorithms](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/ProjectsDSA) - C++  
    - [Object-Oriented-Programming](https://github.com/913-Herta-Diana/Object-Oriented-Programming) - C/C++
    - [Operating Systems]() - C. Shell > to be added
-   
+
+* :blue_book: Semester 3
+  - [Advanced Methods of Programming](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/GraphApp) - Java 
