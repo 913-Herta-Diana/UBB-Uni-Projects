@@ -12,7 +12,7 @@
 
 * :blue_book: Semester 3
   - [Advanced Methods of Programming](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/Interpreter/src/main) - Java
-* :yellow_book: Semester 4
+* 📙: Semester 4
   - [Artificial Intellgence](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/Interpreter/src/main) - Python
   - [Data Base Management System]() - SQL
   - [Web Programming]() - html,css,angular
