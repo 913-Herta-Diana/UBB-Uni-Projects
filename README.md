@@ -11,4 +11,12 @@
    - [Operating Systems]() - C. Shell > to be added
 
 * :blue_book: Semester 3
-  - [Advanced Methods of Programming](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/Interpreter/src/main) - Java 
+  - [Advanced Methods of Programming](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/Interpreter/src/main) - Java
+* :blue_book: Semester 4
+  - [Artificial Intellgence](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/Interpreter/src/main) - Python
+  - [Data Base Management System]() - SQL
+  - [Web Programming]() - html,css,angular
+  - [Software Engineering]() - C#
+  - [Systems for Design and Implementation] - Java, React
+
+
