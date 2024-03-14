@@ -11,4 +11,4 @@
    - [Operating Systems]() - C. Shell > to be added
 
 * :blue_book: Semester 3
-  - [Advanced Methods of Programming](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/GraphApp) - Java 
+  - [Advanced Methods of Programming]([https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/GraphApp](https://github.com/913-Herta-Diana/UBB-Uni-Projects/tree/main/Interpreter/src/main)) - Java 
